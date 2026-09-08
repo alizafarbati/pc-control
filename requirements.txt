@@ -15,7 +15,7 @@ transformers>=4.30.0
 torch>=2.12.1
 
 # Social media APIs
-tweepy>=4.14.0
+tweepy>=4.17.0
 praw>=7.7.0
 httpx>=0.28.1
 
